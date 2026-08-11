@@ -5,5 +5,9 @@
 - v2 → v3: added rules for inputs containing multiple categories
 - [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/01-intake-categorization.md)
 
+## Prompt 02- Information Extraction 
+- v1 → v2: added rules around primary and secondary issues, changed the output fields requirement to cover wide range of fields, if a given information is not present, the field is set to none.
+- [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/02-extraction.md)
+
 
 
