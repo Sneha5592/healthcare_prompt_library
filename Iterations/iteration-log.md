@@ -17,6 +17,10 @@
 - v1 → v2: added care pathway so the cases can be routed to correct departments . Added non medical departments so that general issues dont get stuck in a deadlock.
 - [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/04-routing.md)
 
+## Prompt 05- Pre authorization 
+- v1 → v2: the new rules explicitly state the clinical sign off rules and the formal and professional tone required to draft the pre authorization letter. 
+- [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/05-pre-authorization.md)
+
 
 
 
