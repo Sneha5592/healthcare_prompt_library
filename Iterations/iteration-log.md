@@ -13,6 +13,11 @@
 - v1 → v2: added explicit rule to prevent the model from diagnosing the patient or confidently giving potentially harmful medical information.
 - [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/03-urgency-classification.md)
 
+## Prompt 04- routing 
+- v1 → v2: added care pathway so the cases can be routed to correct departments . Added non medical departments so that general issues dont get stuck in a deadlock.
+- [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/04-routing.md)
+
+
 
 
 
