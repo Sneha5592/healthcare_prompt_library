@@ -119,8 +119,8 @@ This task has a high automation potential because it allows the ai to scan for e
 
 ## Risks and limitations
 
-**Missing contexts:** A ticket combining multiple issues without a clear context can cause every information even if irrelevant to be extracted . This causes the extracted data to be filled with a lot of irrelevant information which increases the risk of reviewers missing useful information.Mitigated by manual human oversight over extracted information
-**Hallucination:**: The model can hallucinate and make up information causing the extracted data to be filled with fake information. This can be highly risky since a lot of future pipelines might depend on the extracted info provided by this task causing the entire chain to be bloated by fake information. 
-**Field limitations:** Since there are multipled fields that can be created to fill niche informations, it could bloat the data structure causing important informations to compete with less important ones . Mitigated by simply directing them to secondary issues to be overlooked by the human reviewer.
+- **Missing contexts:** A ticket combining multiple issues without a clear context can cause every information even if irrelevant to be extracted . This causes the extracted data to be filled with a lot of irrelevant information which increases the risk of reviewers missing useful information.Mitigated by manual human oversight over extracted information
+- **Hallucination:**: The model can hallucinate and make up information causing the extracted data to be filled with fake information. This can be highly risky since a lot of future pipelines might depend on the extracted info provided by this task causing the entire chain to be bloated by fake information. 
+- **Field limitations:** Since there are multipled fields that can be created to fill niche informations, it could bloat the data structure causing important informations to compete with less important ones . Mitigated by simply directing them to secondary issues to be overlooked by the human reviewer.
 
 
