@@ -26,6 +26,6 @@
 - v2 → v3: The rules around anomaly flagging were made explicit. this helps the model to be more consistent across broad cases. The routed specialities not matching the reason is given a separate anomaly class
 - [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/06-anomaly-flagging.md)
 
-
-
-
+## Prompt 07- appointment notification 
+- v1 → v2:  Keeps the explanation more genuine and warm without trying to sound compelling or undermining the issue
+- [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/07-appointment-notification.md)
