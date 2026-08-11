@@ -21,7 +21,10 @@
 - v1 → v2: the new rules explicitly state the clinical sign off rules and the formal and professional tone required to draft the pre authorization letter. 
 - [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/05-pre-authorization.md)
 
-
+## Prompt 06 – Anomaly detection
+- v1 → v2: the model now outputs critical anomalies and gives a brief reasoning on why they were critical.
+- v2 → v3: The rules around anomaly flagging were made explicit. this helps the model to be more consistent across broad cases. The routed specialities not matching the reason is given a separate anomaly class
+- [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/06-anomaly-flagging.md)
 
 
 
