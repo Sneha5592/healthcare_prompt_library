@@ -55,7 +55,7 @@ rules:
 ```
 
 
-**Issues found:** missing category in output, no rules for requests that doesn't fall in the mentioned categories,Trying to extract info that is actually a separate step in the workflow
+**Issues found:**  no rules for requests that doesn't fall in the mentioned categories,Trying to extract info that is actually a separate step in the workflow
 
 ## version 2
 
