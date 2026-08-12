@@ -8,8 +8,8 @@ This is an automation project trying to reduce the workload and increase efficie
 ![diagram about the pipeline](healthcare_admin_prompt_pipeline.png)
 
 ## How this repo is organized
-/prompts- This folder includes one file per prompt. Each file includes different versions of prompt, their automation potential and risks.
-/iterations- This folder contains an interation log file which logged each iteration as it happened . It also includes link to the main file where the prompts were tested.
+- /prompts- This folder includes one file per prompt. Each file includes different versions of prompt, their automation potential and risks.
+- /iterations- This folder contains an interation log file which logged each iteration as it happened . It also includes link to the main file where the prompts were tested.
 
 ## Prompting strategies used 
 - Prompt chaining: The library uses prompt chaining to feed one prompt's output into another prompt's input.Removing the need to repeatedly parse raw text. (IBM, 2026)
