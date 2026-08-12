@@ -5,7 +5,7 @@ This is an automation project trying to reduce the workload and increase efficie
 
 ## The pipeline
 
-![diagram about the pipeline](/home/aayam/Prompt/healthcare_admin_prompt_pipeline.png)
+![diagram about the pipeline](healthcare_admin_prompt_pipeline.png)
 
 ## How this repo is organized
 /prompts- This folder includes one file per prompt. Each file includes different versions of prompt, their automation potential and risks.
