@@ -144,7 +144,7 @@ Sincerely,
 **changes:** the new rules explicitly state the clinical sign off rules and the formal and professional tone required to draft the pre authorization letter. 
 
 ## Automation potential
-The drafting part itself is a highly automation friendly task. it reduces significant workload by drafting routine bills automatically without needing much manual intervention.However, the letter still needs to be reviewed and signed off by a clinician before submission to reduce any risk of misinformation or unnecessary details being presented to the insurance provider.
+The drafting part itself is a highly automation friendly task. it reduces significant workload by drafting routine bills automatically without needing much manual intervention cutting upto 80% of manually drafting time.However, the letter still needs to be reviewed and signed off by a clinician before submission to reduce any risk of misinformation or unnecessary details being presented to the insurance provider.
 
 ## Risks and limitations
 

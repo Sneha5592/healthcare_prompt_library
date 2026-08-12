@@ -1,4 +1,4 @@
-## Prompt 4: Routing 
+# Prompt 4: Routing 
 
 ## Workflow
 routes the patient into specific department based on the extracted information and the classified urgency

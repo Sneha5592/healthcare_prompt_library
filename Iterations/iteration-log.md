@@ -29,3 +29,15 @@
 ## Prompt 07- appointment notification 
 - v1 → v2:  Keeps the explanation more genuine and warm without trying to sound compelling or undermining the issue
 - [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/07-appointment-notification.md)
+
+## Prompt 08- Follow up reminder
+- v1 → v2: Added explicit rules around side effects , added side effect in the input to test how the model generates and structures the output
+- [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/08-follow-up-reminder.md)
+
+## Prompt 09- Case summary 
+- v1 → v2:  explicitly mentioned structure for consistent record keeping. Added a paragraph about the case in the end to make it more detailed.
+- [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/09-case-summary.md)
+
+## Prompt 10- Weekly summary
+- v1: Paragraphs were separated cleanly and rules were mentioned to make the summary more human readable and concise.
+- [See full detail →](https://github.com/Sneha5592/healthcare_prompt_library/blob/main/Prompts/10-weekly-ops-summary.md)

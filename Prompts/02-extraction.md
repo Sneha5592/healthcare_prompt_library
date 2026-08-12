@@ -115,7 +115,7 @@ rules:
 **changes:** added rules around primary and secondary issues, changed the output fields requirement to cover wide range of fields, if a given information is not present, the field is set to none. 
 
 ## Automation Potential
-This task has a high automation potential because it allows the ai to scan for every inquiry thoroughly to pull relevant information . The information extracted can be much more structured and time saving compared to manual human extraction. It reduces the risk of missing information. While it has high automation potential in extracting information, it can struggle with contexts and understanding when to add or skip information requiring manual human oversight.
+This task has a high automation potential because it allows the ai to scan for every inquiry thoroughly to pull relevant information . The information extracted can be much more structured and time saving upto 80% of time compared to manual human extraction. It reduces the risk of missing information. While it has high automation potential in extracting information, it can struggle with contexts and understanding when to add or skip information requiring manual human oversight.
 
 ## Risks and limitations
 

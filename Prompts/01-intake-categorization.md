@@ -156,8 +156,8 @@ This task has  high automation potential because it is simply categorizing the i
 
 ## Risks and Limitations
 
-- **Misclassification of ambiguous requests** : A ticket combining multiple categories could be forced into a single category or be categorized as uncategorized, losing information. This requires a manual human review to categorize them correctly
-- **Over-reliance risk**: Staffs may stop double checking outputs over time. Letting errors and misclassifications slip through 
+- **Misclassification of ambiguous requests** : A ticket combining multiple categories could be forced into a single category or be categorized as uncategorized, losing information. This requires a manual human review to categorize them correctly.
+- **Over-reliance risk**: Staffs may stop double checking outputs over time. Letting errors and misclassifications slip through .
 
 
 
